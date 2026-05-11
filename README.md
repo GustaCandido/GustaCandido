@@ -22,6 +22,9 @@ I share knowledge and create content about software development, SaaS, and tech 
 <a href="https://www.linkedin.com/in/gusta-candido/">
   <img src="https://img.shields.io/badge/LinkedIn-gusta--candido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+  <a href="https://gcandido.site/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-gcandido.site-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 </p>
 
 ---
